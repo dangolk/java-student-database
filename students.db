@@ -1,0 +1,9 @@
+ID,Name,Age,NumberOfCourses,CourseNumber,Department,Section,Credit
+1,Kailash,23,1,285,CSCI,1,3
+2,Hemanta,24,2,299,MATH,2,4,299,MATH,2,4
+3,Swikrit,26,3,285,LANG,1,1,285,LANG,1,1,285,LANG,1,1
+4,Kiran,22,2,285,CSCI,1,2,285,CSCI,1,2
+5,Chiku,26,3,256,PSYC,1,3,256,PSYC,1,3,256,PSYC,1,3
+6,Lukacho,26,3,256,PSYC,1,3,256,PSYC,1,3,256,PSYC,1,3
+7,Pukacho,26,3,444,CSCI,2,4,256,PSYC,1,3,256,PSYC,1,3
+8,gulo,24,1,444,CSCI,2,4
